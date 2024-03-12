@@ -70,6 +70,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "7.0.0"
+<<<<<<< HEAD
   flutter_card_swipper:
     dependency: "direct main"
     description:
@@ -78,6 +79,8 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.4.0"
+=======
+>>>>>>> 9e6ec8c19a24b502afe161fd9558ea140eabea38
   flutter_lints:
     dependency: "direct dev"
     description:
@@ -91,6 +94,7 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+<<<<<<< HEAD
   http:
     dependency: "direct main"
     description:
@@ -107,6 +111,8 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "4.0.2"
+=======
+>>>>>>> 9e6ec8c19a24b502afe161fd9558ea140eabea38
   leak_tracker:
     dependency: transitive
     description:
@@ -224,6 +230,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.6.1"
+<<<<<<< HEAD
   typed_data:
     dependency: transitive
     description:
@@ -232,6 +239,8 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.3.2"
+=======
+>>>>>>> 9e6ec8c19a24b502afe161fd9558ea140eabea38
   vector_math:
     dependency: transitive
     description:
@@ -248,6 +257,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "13.0.0"
+<<<<<<< HEAD
   web:
     dependency: transitive
     description:
@@ -256,6 +266,8 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.5.1"
+=======
+>>>>>>> 9e6ec8c19a24b502afe161fd9558ea140eabea38
 sdks:
   dart: ">=3.3.0 <4.0.0"
   flutter: ">=1.17.0"

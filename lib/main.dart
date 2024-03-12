@@ -96,7 +96,7 @@ class _RestaurantListScreenState extends State<RestaurantListScreen> {
         Container(
           alignment: Alignment.center,
           child: Text(
-            restaurant.name, 
+            restaurant.name,
             style: TextStyle(color: Colors.white),
           ),
           
