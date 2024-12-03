@@ -7,6 +7,10 @@ android {
     namespace = "com.liamboyd.findfood"
     compileSdk = 34
 
+    buildFeatures {
+        viewBinding = true
+    }
+
     defaultConfig {
         applicationId = "com.liamboyd.findfood"
         minSdk = 24
@@ -39,7 +43,7 @@ dependencies {
 
     // Retrofit for API requests
     implementation("com.squareup.retrofit2:retrofit:2.9.0")
-    implementation("com.squareup.retrofit2:convertor-gson:2.9.0")
+    implementation("com.squareup.retrofit2:converter-gson:2.9.0")
 
     // ViewModel and LiveData for MVVM
     implementation ("androidx.lifecycle:lifecycle-viewmodel-compose:2.8.7")
